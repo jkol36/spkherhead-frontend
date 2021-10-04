@@ -1,0 +1,18 @@
+.MainSection__header {
+    // We're using custom style instead of the
+    // .section-header class because we want less bottom
+    // padding and for text alignment to be responsive
+    // and controlled by parent element
+    margin-bottom: 2rem;
+  }
+  
+  .MainSection__subtitle {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  
+  .MainSection__image {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
